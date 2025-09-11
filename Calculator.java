@@ -1,6 +1,6 @@
 package com.example;
 
-// Calculator class
+// Calculator class 
 
 
 public class Calculator {
